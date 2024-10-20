@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  width: 900px;
+  margin: auto;
+  background-image: url("images/kungfupandabackgroundresize.jpg");
+  background-size: cover;
+  font-family: Papyrus;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+}
+
+div {
+  border: 1px solid grey;
+  width: 900px;
+  padding: 75px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+}
